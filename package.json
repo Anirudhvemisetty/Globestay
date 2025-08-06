@@ -1,17 +1,18 @@
 {
-  "engines":{
-    "node":"20.16.0"
+  "engines": {
+    "node": "20.16.0"
   },
   "name": "Globestay",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Airbnb-style listing app built using Node.js, Express, MongoDB, EJS.",
   "dependencies": {
     "cloudinary": "^1.21.0",
     "connect-flash": "^0.1.1",
