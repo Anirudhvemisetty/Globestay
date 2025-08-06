@@ -9,7 +9,7 @@
 - 🌍 Deployed-ready for any device/browser
 
 ---
- ### [Live link] (https://globestay-3.onrender.com/listings)
+ ### [Live link](https://globestay-3.onrender.com/listings)
 ## 🛠 Tech Stack
 
 ### Frontend:
@@ -30,6 +30,7 @@
 ### This is my GLOBESTAY homepage
 
 ![Homepage Screenshot](/GLOBESTAY.jpg)
+
 
 
 
