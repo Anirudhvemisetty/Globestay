@@ -136,3 +136,10 @@ body{
 .filter p{
     font-size: 0.8rem;
 }
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
